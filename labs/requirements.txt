@@ -688,3 +688,9 @@ zipp==3.23.0
     # via importlib-metadata
 zstandard==0.23.0
     # via langsmith
+requests
+python-dotenv
+gradio
+pypdf
+openai
+openai-agents
